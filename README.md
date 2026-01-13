@@ -13,6 +13,8 @@ I'm a Computer Science graduate from the University of Waterloo, passionate abou
 ---
 
 ## 📚 Education
+**Master's in Computer Science**, Texas A&M University  
+*Jan 2026 – Dec 2027*  
 
 **BSc in Computer Science**, University of Waterloo  
 *Sept 2020 – April 2025*  
