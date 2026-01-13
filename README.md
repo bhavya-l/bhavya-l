@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhavya Lamba
 
-I'm a Computer Science graduate from the University of Waterloo, passionate about building thoughtful, reliable software that scales, from intuitive frontend experiences to resilient backend systems. I’ve worked across the stack with modern web frameworks, REST APIs, developer tooling, and real-time systems.
+I'm a Computer Science graduate from the University of Waterloo currently doing my Master's at Texas A&M University. I'm passionate about building thoughtful, reliable software that scales, from intuitive frontend experiences to resilient backend systems. I’ve worked across the stack with modern web frameworks, REST APIs, developer tooling, and real-time systems.
 
 ---
 
